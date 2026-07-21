@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-qlyc0o.juragan89a.site/sitemap.xml
